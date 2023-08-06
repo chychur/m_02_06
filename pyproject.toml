@@ -8,6 +8,7 @@ packages = [{include = "m_02_06"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+faker = "^19.2.0"
 
 
 [build-system]

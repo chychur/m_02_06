@@ -3,7 +3,7 @@
 
 A database was created, the schema of which contains:
 
-![Tux, the Linux mascot](./db/college.png)
+![DB schema](/db/college.png)
 
 of `students`, `groups`, `teachers`, `discipline` (with an indication of the teacher who reads the subject) and `score_log`(a table where each student has grades from subjects with an indication of when the grade was received).
 The database was filled with fake data (30 students, 3 groups, 5 subjects and 5 teachers, and up to 20 grades for each student in all subjects). The Faker package was used to create fake data.
